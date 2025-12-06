@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>DigiNameCard Privacy Policy</title>
+</head>
+<body>
+<h1>Privacy Policy</h1>
+<p>
+DigiNameCard – Privacy Policy
+Last Updated: December 8, 2025
+DigiNameCard (“we”, “us”, “our”) is committed to protecting your privacy. This Privacy Policy explains how we collect, store, use, and protect information when you use the DigiNameCard mobile application (“App”).
+By downloading or using DigiNameCard, you agree to the practices described in this Privacy Policy.
+
+1. Information We Collect
+DigiNameCard is designed with privacy as a core feature. We do not require user accounts, external servers, or third-party data storage.
+Information You Input Manually
+When you create or edit your digital business card or add contacts, the following information may be stored only on your device:
+Name, job title, company
+
+
+Phone number, email address, website links
+
+
+Profile image or logo
+
+
+Tags, notes, or additional contact details
+
+
+Scanned business card information (OCR)
+
+
+QR code information
+
+
+Exported/imported vCard (.vcf), CSV, or other files
+
+
+Automatically Collected Information
+We may collect limited technical information through Apple's platform analytics (if enabled by the user in iOS settings), such as:
+Device type
+
+
+App performance metrics
+
+
+Crashes and error logs
+
+
+This information is anonymous and not linked to personal identity.
+
+2. Data Storage & Security
+Local Storage (Default)
+All personal data and contacts are stored locally on your device. We do not have access to your data.
+iCloud Backup (Optional)
+If enabled, your data may be backed up to your personal Apple iCloud account.
+ We do not host or view backup data, and Apple’s iCloud security policies apply.
+No External Servers
+We do not collect, transmit, or store your data on any external server.
+
+
+We do not sell, share, or mine personal information.
+
+
+You retain full ownership and control of your data.
+
+3. How We Use Information
+We use your information only to operate the app features locally, such as:
+Creating and displaying your digital business card
+
+
+Managing contacts and scanned cards
+
+
+Generating QR codes for sharing
+
+
+Exporting or importing contacts
+
+
+We do not use your contact data for analytics, advertising, or marketing.
+
+4. Sharing of Information
+DigiNameCard does not share information with third parties.
+Data is only shared when you choose to export or send it (example: vCard/CSV sharing via email, text, AirDrop).
+We never:
+Sell personal data
+
+
+Track users across apps or websites
+
+
+Share data for advertising purposes
+
+
+
+5. Permissions Used
+The app may request the following optional permissions:
+Permission
+Purpose
+Optional
+Camera
+Scan QR codes & capture card images
+Yes
+Photos/Files
+Save or import digital cards, logos, CSV/VCF files
+Yes
+Contacts
+Save/import contacts if initiated by user
+Yes
+iCloud
+Backup & restore (user-controlled)
+Yes
+
+The app remains usable even if most permissions are declined (except features requiring them).
+
+6. Data Retention & Deletion
+All data is stored on your device.
+You may delete it at any time by:
+Deleting individual contacts or cards inside the app
+
+
+Clearing app data
+
+
+Uninstalling the application
+
+
+Removing backups from iCloud (if enabled)
+
+
+We have no access to restore deleted data.
+
+7. Children’s Privacy
+.
+We do not knowingly collect information from children.DigiNameCard is intended for anyone older than 4.
+
+8. Changes to This Policy
+We may update this Privacy Policy occasionally to reflect app improvements or legal requirements. Updates will be available within the app or on our website. Continued use of the app signifies acceptance of changes.
+
+9. Contact Us
+If you have questions about privacy or data handling practices, contact us:
+Email:DigiNameCard@yahoo.com
+
+
+</p>
+</body>
+</html>
